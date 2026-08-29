@@ -38,6 +38,7 @@ Developers still need to understand the issue, decide how to fix it, and verify 
 
 🛡️ The CodeSentinel Solution
 CodeSentinel brings security analysis into one connected workflow.
+
 ┌─────────────────────────────────────────────┐
 │                 SOURCE CODE                 │
 └──────────────────────┬──────────────────────┘
@@ -52,11 +53,14 @@ CodeSentinel brings security analysis into one connected workflow.
                        │
                        ▼
                 ✅ VERIFY THE RESULT
+
+
 One platform. One workflow. From detection to confidence.
 ⚡ What Makes CodeSentinel Different?
 🔍 1. Detect
 CodeSentinel analyzes code to identify potential vulnerabilities and security risks.
 The goal is not simply to scan code — but to identify issues that deserve developer attention.
+
 
 🧠 2. Explain
 A security warning is only useful if the developer understands it.
@@ -67,16 +71,20 @@ What potential impact it could have
 Where the risk exists
 Because developers should understand security problems — not just receive alerts.
 
+
 🛠️ 3. Fix
 After understanding a vulnerability, the next challenge is remediation.
 CodeSentinel provides guidance to help developers approach and resolve security issues.
 The focus is on making security findings more actionable.
+
 
 ✅ 4. Verify
 A suggested fix should not automatically be trusted.
 CodeSentinel supports verification as part of the workflow.
 The goal isn't just to change the code.
 The goal is to gain confidence that the security issue has been addressed.
+
+
 🤖 AI in CodeSentinel
 CodeSentinel includes AI-assisted security analysis to improve how developers interact with security findings.
 AI is used to help:
