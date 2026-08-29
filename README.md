@@ -12,6 +12,8 @@ Don't Just Find Vulnerabilities. Understand Them. Fix Them. Verify Them.
 
 🎬 **Watch the Project Demo:** https://youtu.be/SL3VgVabMIk
 
+
+
 CodeSentinel transforms security analysis from a list of warnings into an actionable workflow:
 🔍 Detect → 🧠 Explain → 🛠️ Fix → ✅ Verify
 
