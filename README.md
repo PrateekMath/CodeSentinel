@@ -7,6 +7,10 @@ Don't Just Find Vulnerabilities. Understand Them. Fix Them. Verify Them.
 
 🚀 **Try CodeSentinel live:** https://codesentinel-afrl.onrender.com/
 
+CodeSentinel transforms security analysis from a list of warnings into an actionable workflow:
+🔍 Detect → 🧠 Explain → 🛠️ Fix → ✅ Verify
+
+
 
 
 ## 🎥 Demo Video
@@ -15,8 +19,25 @@ Don't Just Find Vulnerabilities. Understand Them. Fix Them. Verify Them.
 
 
 
-CodeSentinel transforms security analysis from a list of warnings into an actionable workflow:
-🔍 Detect → 🧠 Explain → 🛠️ Fix → ✅ Verify
+## 🧪 Sample Test Inputs
+
+CodeSentinel provides sample inputs to help users and judges quickly test the security analysis features.
+
+### 📦 Sample ZIP Project
+
+Download the benchmark project and upload it using the **ZIP/File Analysis** feature:
+
+➡️ **[Download CodeSentinel Benchmark](./sample-projects/CodeSentinel-Benchmark.zip)**
+
+### 🔗 Sample GitHub Repositories
+
+#### 🔵 Advanced Test — Real-World Repository
+
+➡️ https://github.com/axios/axios
+
+Axios is a larger real-world JavaScript/Node.js project and may take longer to analyze.
+
+
 
 
 🌟 The Vision
