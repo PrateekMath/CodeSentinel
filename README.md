@@ -25,16 +25,7 @@ CodeSentinel transforms security analysis from a list of warnings into an action
 
 CodeSentinel provides sample inputs to help users and judges quickly test the security analysis features.
 
-### 📦 Sample ZIP Project
 
-Download the benchmark project and upload it using the **ZIP/File Analysis** feature:
-
-➡️ **[Download CodeSentinel Benchmark](./sample-projects/CodeSentinel-Benchmark.zip)**
-
-➡️ [Download CodeSentinel Benchmark](https://github.com/PrateekMath/CodeSentinel/raw/main/sample-projects/CodeSentinel-Benchmark.zip)
-
-
-➡️ **[⬇️ Download CodeSentinel Benchmark ZIP](https://raw.githubusercontent.com/PrateekMath/CodeSentinel/main/sample-projects/CodeSentinel-Benchmark.zip)**
 
 ### 🔗 Sample GitHub Repositories
 
@@ -43,6 +34,16 @@ Download the benchmark project and upload it using the **ZIP/File Analysis** fea
 ➡️ https://github.com/axios/axios
 
 Axios is a larger real-world JavaScript/Node.js project and may take longer to analyze.
+
+
+
+### 📦 Sample ZIP Project
+
+Download the benchmark project and upload it directly to CodeSentinel:
+
+➡️ **[⬇️ Download CodeSentinel Benchmark ZIP](https://raw.githubusercontent.com/PrateekMath/CodeSentinel/main/sample-projects/CodeSentinel-Benchmark.zip)**
+
+> **Note:** Some browsers or operating systems may automatically extract the downloaded ZIP file. If the download appears as a folder, compress the folder into a `.zip` file before uploading it to CodeSentinel.
 
 
 
