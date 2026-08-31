@@ -33,6 +33,9 @@ Download the benchmark project and upload it using the **ZIP/File Analysis** fea
 
 ➡️ [Download CodeSentinel Benchmark](https://github.com/PrateekMath/CodeSentinel/raw/main/sample-projects/CodeSentinel-Benchmark.zip)
 
+
+➡️ **[⬇️ Download CodeSentinel Benchmark ZIP](https://raw.githubusercontent.com/PrateekMath/CodeSentinel/main/sample-projects/CodeSentinel-Benchmark.zip)**
+
 ### 🔗 Sample GitHub Repositories
 
 #### 🔵 Advanced Test — Real-World Repository
