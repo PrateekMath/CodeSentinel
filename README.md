@@ -16,6 +16,7 @@ CodeSentinel transforms security analysis from a list of warnings into an action
 ## 🎥 Demo Video
 
 🎬 **Watch the Project Demo:** 
+
 🛡️CodeSentinel - From Vulnerability to Verified Security.
 
 https://youtu.be/SL3VgVabMIk
