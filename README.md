@@ -19,7 +19,7 @@ CodeSentinel transforms security analysis from a list of warnings into an action
 
 🛡️CodeSentinel - From Vulnerability to Verified Security.
 
-https://youtu.be/SL3VgVabMIk
+
 
 
 
