@@ -7,23 +7,6 @@ Don't Just Find Vulnerabilities. Understand Them. Fix Them. Verify Them.
 
 🚀 **Try CodeSentinel live:** https://codesentinel-afrl.onrender.com/
 
-CodeSentinel transforms security analysis from a list of warnings into an actionable workflow:
-🔍 Detect → 🧠 Explain → 🛠️ Fix → ✅ Verify
-
-
-
-
-## 🎥 Demo Video
-
-🎬 **Watch the Project Demo:** 
-
-🛡️CodeSentinel - From Vulnerability to Verified Security.
-
-
-
-
-
-
 ## 🧪 Sample Test Inputs
 
 CodeSentinel provides sample inputs to help users and judges quickly test the security analysis features.
@@ -47,6 +30,23 @@ Download the benchmark project and upload it directly to CodeSentinel:
 ➡️ **[⬇️ Download CodeSentinel Benchmark ZIP](https://raw.githubusercontent.com/PrateekMath/CodeSentinel/main/sample-projects/CodeSentinel-Benchmark.zip)**
 
 > **Note:** Some browsers or operating systems may automatically extract the downloaded ZIP file. If the download appears as a folder, compress the folder into a `.zip` file before uploading it to CodeSentinel.
+
+CodeSentinel transforms security analysis from a list of warnings into an actionable workflow:
+🔍 Detect → 🧠 Explain → 🛠️ Fix → ✅ Verify
+
+
+
+
+## 🎥 Demo Video
+
+🎬 **Watch the Project Demo:** 
+
+🛡️CodeSentinel - From Vulnerability to Verified Security.
+https://youtu.be/SL3VgVabMIk
+
+
+
+
 
 
 
